@@ -6,18 +6,26 @@ Be The Hero is an open source plataform (mobile and web) that ONGS can create a 
   - Frontend (ReactJS)
   - Mobile (Expo)
 
-### Tech Stack
+### Stack
 The platform is divided into 3 sections
 
 * Backend
     * [NodeJs](https://nodejs.org/en/)
     * [Express](https://expressjs.com/)
     * [knexjs](http://knexjs.org/)
+
 * Frontend
     * [ReactJS](https://reactjs.org/)
+
+[](images/web1.png)
+[](images/web2.png)
+
 * Mobile
     * [React Native](https://reactnative.dev/)
     * [Expo](https://expo.io/)
+
+[](images/mobile1.png)
+[](images/mobile2.png)
 
 ### Installation
 
